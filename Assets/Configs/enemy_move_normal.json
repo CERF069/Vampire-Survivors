@@ -1,0 +1,5 @@
+{
+  "moveSpeed": 2,
+  "acceleration": 10,
+  "deceleration": 12
+}

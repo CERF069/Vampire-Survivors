@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Default Local Group
+  m_GUID: 137e0b5eca78d7048a88daacd259e06e
+  m_SerializeEntries:
+  - m_GUID: 1e9ee6774a884ab591450cd4dc0364c5
+    m_Address: player_attack
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28d7ac650ae24403ac56693237027768
+    m_Address: enemy_move_normal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a55ede933dd4c9888637dedc24cdc58
+    m_Address: enemy_Health_fast
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44b638bb84524c88b7ed172f0437c355
+    m_Address: enemy_spawn_config
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63b613ddfb298bc4dbb10353440726b8
+    m_Address: EnemyFast
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f7b57b63a4d494387972ed629b3ed72
+    m_Address: FastEnemy_attack
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad8075271bf344e9839b2c3634d67fe5
+    m_Address: player_health
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5badf998772023448a95a2a50f3232f
+    m_Address: EnemyNormal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b862d05727bb42a495e639638165ed6e
+    m_Address: enemy_move_fast
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b98a5b8952389cf4ab0f411a2a1a70ee
+    m_Address: player_move
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: baa24624f7bb41d59d2a9776e1f8bee0
+    m_Address: enemy_Health
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0068f98997344a9bc5b74ac4f084192
+    m_Address: Enemy_attack
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: eb2adac27b17e0f46bb04c3ce8f9d472, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c5ce38544fa7dd547b1371701915c43f, type: 2}
+    - {fileID: 11400000, guid: acd36df543c454946bf9bca1c577ffc9, type: 2}

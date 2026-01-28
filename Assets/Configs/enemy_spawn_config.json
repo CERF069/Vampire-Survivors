@@ -1,0 +1,18 @@
+{
+  "spawnInterval": 1,
+  "spawnDistance": 2.0,
+  "spawnSides": true,
+  "spawnRadius": 0,
+  "settings": [
+    {
+      "enemyPrefab": "EnemyFast",
+      "chance": 1,
+      "count": 10
+    },
+    {
+      "enemyPrefab": "EnemyNormal",
+      "chance": 1,
+      "count": 5
+    }
+  ]
+}
